@@ -1,6 +1,14 @@
-# servlet-testing-easymock
-show servlet testing with easymock
+servlet-testing-easymock
+========================
 
-./gradlew appRun
+Example shows servlet testing with easymock
 
-http://localhost:8080/testing/helloworld
+
+Quick Start
+-----------
+
+	./gradlew appRun
+
+Open your web browser to
+
+	http://localhost:8080/testing/helloworld
