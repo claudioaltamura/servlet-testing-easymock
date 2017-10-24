@@ -12,3 +12,5 @@ Quick Start
 Open your web browser to
 
 	http://localhost:8080/testing/helloworld
+
+Or have a look at HelloWorldServletTest.java.
